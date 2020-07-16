@@ -1,0 +1,11 @@
+
+T
+java:S1135<"2Complete the task associated to this TODO comment.(à“ÆŞøÿÿÿÿ8ÒáîŠµ.
+c
+java:S44887"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(¾ËÈüüÿÿÿÿ
+T
+java:S4719J"9Replace charset name argument with StandardCharsets.UTF_8(Šö¸ùÿÿÿÿ
+f	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¹ºÛ
+f	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¹ºÛ
+T
+java:S4719I"9Replace charset name argument with StandardCharsets.UTF_8(Â›…¿ùÿÿÿÿ

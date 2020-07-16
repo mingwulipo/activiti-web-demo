@@ -1,0 +1,20 @@
+
+A
+java:S1874B"+Remove this use of "put"; it is deprecated.(Å¨¬¯
+[
+java:S3752K">Add a "method" parameter to this "@RequestMapping" annotation.(ÚüÅÙ8ÚÚÏà´.
+`
+java:S3752R">Add a "method" parameter to this "@RequestMapping" annotation.(·°»ëøÿÿÿÿ8úŸ¬ã´.
+`
+java:S1155k">Use isEmpty() to check whether the collection is empty or not.(ŠÁ˜åøÿÿÿÿ8ï¥†µ.
+[
+java:S4719t"9Replace charset name argument with StandardCharsets.UTF_8(­—¸þÿÿÿÿ8ï¥†µ.
+~
+java:S1488N"\Immediately return this expression instead of assigning it to the temporary variable "list".(èá¿Þùÿÿÿÿ8¤á‚µ.
+g	java:S112_"FDefine and throw a dedicated exception instead of using a generic one.(ª®ç£úÿÿÿÿ8ÚÚÏà´.
+T
+java:S4719C"9Replace charset name argument with StandardCharsets.UTF_8(ì‰ŠÜýÿÿÿÿ
+`
+java:S3752]">Add a "method" parameter to this "@RequestMapping" annotation.(ÇþÄ²øÿÿÿÿ8ÚÚÏà´.
+T
+java:S3752'">Add a "method" parameter to this "@RequestMapping" annotation.(–Ø’œ

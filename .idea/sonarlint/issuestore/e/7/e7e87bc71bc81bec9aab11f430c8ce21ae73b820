@@ -1,0 +1,16 @@
+
+T
+java:S3752"">Add a "method" parameter to this "@RequestMapping" annotation.(ÚüÅÙ
+b	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(àë’£8³œÀµ.
+L
+java:S2093R"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8™Åµ.
+`
+java:S3752C">Add a "method" parameter to this "@RequestMapping" annotation.(ËæÓíüÿÿÿÿ8³œÀµ.
+`
+java:S37524">Add a "method" parameter to this "@RequestMapping" annotation.(¦ñİ–ÿÿÿÿÿ8øÅîŒµ.
+c
+java:S1075G"ARefactor your code to get this URI from a customizable parameter.(¹È¬Óıÿÿÿÿ8¨íÎµ.
+Y
+java:S3752(">Add a "method" parameter to this "@RequestMapping" annotation.(·°»ëøÿÿÿÿ
+E
+java:S1148X"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8³œÀµ.
